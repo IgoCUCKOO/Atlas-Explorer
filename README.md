@@ -2,9 +2,7 @@
 
 A React app for browsing every country in the world — search by name, filter by region, save favorites, and view details (capital, population, languages, currencies) pulled live from the [countries.dev](https://countries.dev/) API.
 
-**🔗 Live demo:** [add your Netlify/Vercel URL here after deploying]
-
-> **Note:** this project originally used restcountries.com's v3.1 API, which was shut down after this project was built (its replacement, v5, requires a paid-tiered API key). It now uses [countries.dev](https://countries.dev/), a free, keyless, CORS-enabled alternative with an equivalent dataset.
+**🔗 Live demo:** [https://atlasexplorerr.netlify.app/]
 
 ## Features
 
